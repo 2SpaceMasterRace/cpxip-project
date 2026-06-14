@@ -1,0 +1,3 @@
+/home/nanodijkstra/Work/cpxip-project/C++_Crash_Course/TUM_CIT323000_Concepts_of_C++_Programming/lecture_1/build/CMakeFiles/hello_world.dir
+/home/nanodijkstra/Work/cpxip-project/C++_Crash_Course/TUM_CIT323000_Concepts_of_C++_Programming/lecture_1/build/CMakeFiles/edit_cache.dir
+/home/nanodijkstra/Work/cpxip-project/C++_Crash_Course/TUM_CIT323000_Concepts_of_C++_Programming/lecture_1/build/CMakeFiles/rebuild_cache.dir
