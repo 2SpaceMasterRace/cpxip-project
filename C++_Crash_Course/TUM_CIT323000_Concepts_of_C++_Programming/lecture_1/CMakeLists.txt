@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(lecture1)
+project(lecture_1)
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE__CXX__STANDARD_REQURED ON)
 add_executable(hello_world hello_world.cpp)
